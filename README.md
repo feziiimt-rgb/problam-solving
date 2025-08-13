@@ -1,1 +1,1 @@
-# problam-solving
+# problem-solving
